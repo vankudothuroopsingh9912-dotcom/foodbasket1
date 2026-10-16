@@ -1,0 +1,6 @@
+{
+  "name": "Food Basket - Online Grocery Shopping",
+  "description": "Fresh Groceries, Fruits, Vegetables & Daily Essentials delivered to your doorstep with real-time order tracking and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
